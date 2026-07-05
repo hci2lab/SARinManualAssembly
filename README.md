@@ -60,6 +60,6 @@ The empirical study evaluated two distinct instruction methods during the molecu
 
 ## Repository Contents
 
-* **[Dataset_SAR.csv](file:///C:/Users/naim/Desktop/SARinManualAssembly/Dataset_SAR.csv)**: Raw experimental logs and metrics recorded during the user study sessions.
-* **[FeedbackForm.pdf](file:///C:/Users/naim/Desktop/SARinManualAssembly/FeedbackForm.pdf)**: Blank copy of the post-experiment participant survey used to collect feedback on user experience.
-* **[Post-Experiment Survey.xlsx](file:///C:/Users/naim/Desktop/SARinManualAssembly/Post-Experiment%20Survey.xlsx)**: Complete, anonymized responses of the participant feedback questionnaire along with calculated NASA-TLX scores.
+* **[Dataset_SAR.csv](Dataset_SAR.csv)**: Raw experimental logs and metrics recorded during the user study sessions.
+* **[FeedbackForm.pdf](FeedbackForm.pdf)**: Blank copy of the post-experiment participant survey used to collect feedback on user experience.
+* **[Post-Experiment Survey.xlsx](Post-Experiment%20Survey.xlsx)**: Complete, anonymized responses of the participant feedback questionnaire along with calculated NASA-TLX scores.

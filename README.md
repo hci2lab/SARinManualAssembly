@@ -40,9 +40,9 @@ The interactive Spatial Augmented Reality (SAR) prototype is built on an ergonom
 *Schematic representation of the molecular assemblies utilised in the experiments. Double lines indicate long-length double bond connectors, solid single lines represent medium-length single bond connectors, and dashed lines denote short-length single bond connectors. Atoms are depicted using both colours and chemical symbols (e.g., oxygen is represented as red with the symbol "O").*
 
 Eight distinct molecular model assemblies were designed to systematically evaluate how task difficulty interacts with instruction modalities:
-* **Simple (S1, S2):** Built with 6 atoms and 6 bonds (1 double, 3 medium single, 2 short single connectors).
-* **Medium (M1–M4):** Built with 17 atoms and 17 bonds (2 double, 10 medium single, 5 short single connectors).
-* **Hard (H1, H2):** Built with 48 atoms and 49 bonds (5–6 double, 29 medium single, 14 short single connectors).
+* **Simple (S1, S2):** Built with 6 atoms (3 unique atom types) and 6 bonds (1 long double, 3 medium single, and 2 short single connectors).
+* **Medium (M1–M4):** Built with 17 atoms (9 unique atom types) and 17 bonds (2 long double, 10 medium single, and 5 short single connectors).
+* **Hard (H1, H2):** Built with 48 atoms (9 unique atom types) and 48–49 bonds (5–6 long double, 29 medium single, and 14 short single connectors).
 
 To ensure consistency in cognitive and physical demands across each complexity level, the number of atoms and bond connectors remains identical for tasks within the same category. Atoms are represented by color-coded spheres engraved with chemical symbols, and bonds are represented by double bond (long), solid single bond (medium), and dashed single bond (short) physical connectors.
 

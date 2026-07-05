@@ -11,17 +11,6 @@ This study evaluates the effectiveness of an interactive, gesture-controlled Spa
 * **SAR System Features:** Powered by Python and Google's MediaPipe framework for real-time hand-tracking and gesture control, alongside multi-modal projection-based "pick-by-light" guidance.
 * **Cognitive Load Measurement:** Perceived workload was evaluated using the NASA-TLX framework, while objective cognitive load was monitored in real-time via frontal EEG alpha-band power using a Muse 2 headband.
 
-### Empirical Performance Improvements with SAR (Untimed Conditions)
-
-| Metric | Improvement with SAR vs. Paper | Statistical Significance |
-| :--- | :--- | :--- |
-| **Task Completion Time** | **-14.3%** (Median reduction) | $W = 573.0, p = .0018$ (Significant) |
-| **Assembly Errors** | **-33.0%** (Reduction in errors) | $W = 106.5, p = .028$ (Significant) |
-| **Component Picking Errors** | **-30.9%** (Reduction in errors) | $W = 313.5, p = .0047$ (Significant) |
-| **Subjective Effort (NASA-TLX)** | Significant reduction | $p = .0006$ (Significant) |
-| **Subjective Frustration (NASA-TLX)** | Significant reduction | $p = .020$ (Significant) |
-
----
 
 ## System Overview & Experimental Visuals
 

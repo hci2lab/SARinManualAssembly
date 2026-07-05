@@ -26,7 +26,7 @@ This study evaluates the effectiveness of an interactive, gesture-controlled Spa
 ## System Overview & Experimental Visuals
 
 ### 1. The Proposed SAR System
-![The proposed SAR system](proposed_sar_system.png)
+![The proposed SAR system](images/proposed_sar_system.png)
 *The proposed SAR system: The left image illustrates the components of the system. The top-right image showcases the Python MediaPipe framework utilised for tracking the operator's hand movements, while the bottom-right image depicts textual and animated work instructions alongside the pick-by-light system. (Participant shown with informed consent.)*
 
 The interactive Spatial Augmented Reality (SAR) prototype is built on an ergonomic workspace consisting of an assembly platform and a storage rack housing 12 component bins. The hardware configuration features an overhead-mounted low-blue-light projector and an Intel RealSense 3D depth camera:
@@ -36,7 +36,7 @@ The interactive Spatial Augmented Reality (SAR) prototype is built on an ergonom
 ---
 
 ### 2. Molecular Assembly Complexity
-![Molecular Assemblies](schemetic-rep-molecule-assemblies.png)
+![Molecular Assemblies](images/schemetic-rep-molecule-assemblies.png)
 *Schematic representation of the molecular assemblies utilised in the experiments. Double lines indicate long-length double bond connectors, solid single lines represent medium-length single bond connectors, and dashed lines denote short-length single bond connectors. Atoms are depicted using both colours and chemical symbols (e.g., oxygen is represented as red with the symbol "O").*
 
 Eight distinct molecular model assemblies were designed to systematically evaluate how task difficulty interacts with instruction modalities:
@@ -49,7 +49,7 @@ To ensure consistency in cognitive and physical demands across each complexity l
 ---
 
 ### 3. Comparison of Instruction Modalities
-![Comparison of Modalities](compare_exp.png)
+![Comparison of Modalities](images/compare_exp.png)
 *Comparison of the paper-based instruction booklet and SAR projected instruction interface used during the molecular assembly task.*
 
 The empirical study evaluated two distinct instruction methods during the molecular assembly tasks:
